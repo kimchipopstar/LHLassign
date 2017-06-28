@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6B2EACC40D95DEF99CF6F85A04E8A0A074E4B46E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AC548E2CE638EC9A4605FB2FA9E12C2DF4396640" : 9223372036854775807,
+    "6B2EACC40D95DEF99CF6F85A04E8A0A074E4B46E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "18B887A0-0547-47BD-8108-F75B096F8854",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AC548E2CE638EC9A4605FB2FA9E12C2DF4396640" : "",
+    "6B2EACC40D95DEF99CF6F85A04E8A0A074E4B46E" : "FindLargeNumber\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FindLargeNumber",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FindLargeNumber.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kimchipopstar\/LHLassignment.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6B2EACC40D95DEF99CF6F85A04E8A0A074E4B46E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kimchipopstar\/LHLassign.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AC548E2CE638EC9A4605FB2FA9E12C2DF4396640"
+    }
+  ]
+}
